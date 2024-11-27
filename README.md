@@ -1,4 +1,10 @@
+<h1 align="center">Hi 👋, I'm M. Faizan</h1>
+<h3 align="center">I am highly skilled mobile developer with 6+ years of experience designing and developing cutting-edge mobile applications for both iOS, Android and Flutter development.</h3>
 
+- 💬 Ask me about **Flutter, Android and iOS**
+
+- 📫 How to reach me **faizi.akbr@gmail.com**
+- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-faizan) 
 
