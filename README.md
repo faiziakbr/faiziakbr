@@ -4,7 +4,7 @@
 - 💬 Ask me about **Flutter, Android and iOS**
 
 - 📫 How to reach me **faizi.akbr@gmail.com**
-- 
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-faizan) 
 
