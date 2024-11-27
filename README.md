@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Faizan</h1>
-<h3 align="center">I am highly skilled mobile developer with 6+ years of experience designing and developing cutting-edge mobile applications for both iOS, Android and Flutter development.</h3>
+<h3 align="center">I am highly skilled mobile developer with 6+ years of experience designing and developing cutting-edge mobile applications for iOS, Android and Flutter.</h3>
 
 - 💬 Ask me about **Flutter, Android and iOS**
 
