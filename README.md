@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M. Faizan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Faizan Akbar</h1>
 <h3 align="center">I am highly skilled mobile developer with 8+ years of experience designing and developing cutting-edge mobile applications for iOS, Android and Flutter.</h3>
 <head>
 <meta name="google-site-verification" content="kw5Y1nULyuNSkTFOWfmS3juNkmKJsL6IbtX_TKgCoxA" />
